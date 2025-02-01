@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this react app is created by sangram yadav",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/123456789sang/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "sangram yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/123456789sang/React/issues"
+  },
+  "homepage": "https://github.com/123456789sang/React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
