@@ -1,0 +1,23 @@
+{
+  "name": "episode-2",
+  "version": "1.0.0",
+  "description": "this app is created using react ",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"jest\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/123456789sang/React.git"
+  },
+  "keywords": [
+    "\"react",
+    "\""
+  ],
+  "author": "Sangram Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/123456789sang/React/issues"
+  },
+  "homepage": "https://github.com/123456789sang/React#readme"
+}
