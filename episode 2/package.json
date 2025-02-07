@@ -2,9 +2,9 @@
   "name": "episode-2",
   "version": "1.0.0",
   "description": "this app is created using react ",
-  "main": "app.js",
-  "scripts": {
-    "test": "\"jest\""
+  
+  "scripts": { "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
